@@ -1,0 +1,27 @@
+{
+  "name": "mf",
+  "version": "1.0.0",
+  "description": "mifeng",
+  "main": "index.js",
+  "scripts": {
+    "test": "key"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qt7288/mf.git",
+    "start": "node long.js"
+  },
+  "keywords": [
+    "mifeng"
+  ],
+  "author": "简介",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qt7288/mf/issues"
+  },
+  "homepage": "https://github.com/qt7288/mf#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
